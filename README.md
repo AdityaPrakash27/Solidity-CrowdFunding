@@ -1,4 +1,6 @@
 # Solidity-CrowdFunding
+                                                                      
+  ![WhatsApp Image 2024-03-13 at 16 01 12_746a2d51](https://github.com/AdityaPrakash27/Solidity-CrowdFunding/assets/114162942/8b3c87e5-cf6e-4d50-9d4a-94e033cf912e)
 
 # CrowdFunding Smart Contract: 
 Revolutionizing fundraising dynamics through blockchain technology. Facilitating seamless contributions from a global community, it fosters trust and transparency with immutable records. Empowering innovators and backers alike, it streamlines project funding with smart contract automation, ensuring funds are released only upon meeting predefined criteria. Join the decentralized revolution, where every contribution counts towards building a brighter future
