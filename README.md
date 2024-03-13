@@ -1,7 +1,7 @@
 # Solidity-CrowdFunding
-                                                                      
-![WhatsApp Image 2024-03-13 at 16 14 52_3dd23685](https://github.com/AdityaPrakash27/Solidity-CrowdFunding/assets/114162942/2c5b47e0-0251-4ecd-b517-2457d5fcc644)
 
+![WhatsApp Image 2024-03-13 at 16 27 24_84c397b2](https://github.com/AdityaPrakash27/Solidity-CrowdFunding/assets/114162942/70ea98e5-2842-424f-9408-b74b2548f539)
+                                                                      
 # CrowdFunding Smart Contract: 
 Revolutionizing fundraising dynamics through blockchain technology. Facilitating seamless contributions from a global community, it fosters trust and transparency with immutable records. Empowering innovators and backers alike, it streamlines project funding with smart contract automation, ensuring funds are released only upon meeting predefined criteria. Join the decentralized revolution, where every contribution counts towards building a brighter future
 
@@ -16,6 +16,8 @@ During the creation of the CrowdFunding Smart Contract, we faced a few tough spo
 
 # Technologies we used
 Ethereum Blockchain, Solidity language, Remix IDE, Truffle framework, MythX security tool
+
+![WhatsApp Image 2024-03-13 at 16 14 52_3dd23685](https://github.com/AdityaPrakash27/Solidity-CrowdFunding/assets/114162942/2c5b47e0-0251-4ecd-b517-2457d5fcc644)
 
 # Video
 https://www.loom.com/share/44408df37bd049e9b7470eb3a95e9139?sid=521201ba-ff87-4376-99f5-20ea592326dc
