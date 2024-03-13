@@ -16,3 +16,6 @@ During the creation of the CrowdFunding Smart Contract, we faced a few tough spo
 
 # Technologies we used
 Ethereum Blockchain, Solidity language, Remix IDE, Truffle framework, MythX security tool
+
+# Video
+https://www.loom.com/share/44408df37bd049e9b7470eb3a95e9139?sid=521201ba-ff87-4376-99f5-20ea592326dc
